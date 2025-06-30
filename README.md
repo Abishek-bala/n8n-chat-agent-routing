@@ -70,13 +70,18 @@ Only reply when you've completed all tool calls.
 
 ## Demo Recording
 
-The demo video is available in this repo under:  
-📁 `n8n_demo_recording.mp4`
+The demo video of the agent in action:  
 
-You can download and watch it to see the full workflow in action.
+
+https://github.com/user-attachments/assets/899a03bc-7a27-4d80-830b-64f9c9f868e3
+
+
 
 
 ## Screenshots
+
+### Screenshot of the agent 
+<img src="https://github.com/Abishek-bala/n8n-chat-agent-routing/blob/main/agent.png" width="600" />
 
 ### Email Sent to customer  
 <img src="https://github.com/Abishek-bala/n8n-chat-agent-routing/blob/main/customer_email_reply.png" width="600" />
