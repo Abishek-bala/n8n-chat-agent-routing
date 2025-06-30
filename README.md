@@ -1,4 +1,4 @@
-# 🤖 n8n Chat Agent: Auto-Classify and Route Messages via Email
+# n8n Chat Agent: Auto-Classify Messages and Reply via Email
 
 This project demonstrates a smart support assistant built using **n8n**, **OpenAI**, **HTTP**, and **Gmail** tools.
 
